@@ -3,5 +3,18 @@
   padding:3cm;
   margin:4cm;
   border:5px solid black;
+  background-color:white;
+  
+}
+
+
+body {
+  background-image:url(https://th.bing.com/th/id/OIP.X10NERjb4N1V5rXggWj_3wHaHa?pid=ImgDet&rs=1);
+  margin:0;
+  padding:0;
+  background-size:cover;
+  background-position:center;
+  backgroundblend-mode:lighten;
+  background-color:rgba(200, 134, 150, 0.5);
   
 }
