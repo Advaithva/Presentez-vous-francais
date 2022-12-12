@@ -22,3 +22,7 @@ body {
   background-color:rgba(134, 150, 200, 0.5);
   
 }
+
+html {
+  scroll-behavior: smooth;
+}
